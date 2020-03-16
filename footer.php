@@ -41,13 +41,12 @@
     <div class="content">
         <div class="footer-contact" itemscope itemtype="http://schema.org/Organization">
             <div class="logo-structure"><img itemprop="logo" src="https://firebasestorage.googleapis.com/v0/b/ecomm-projet.appspot.com/o/Logo-EST-Sidi-Bennour.jpg?alt=media&token=69abe000-c9bc-46d3-a5b4-f816038be86c"/></div>	<h3 itemprop="legalName">Services administratifs</h3>	<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span>Bâtiment C8</span><br/>
-                <span itemprop="streetAddress">14 allée Jean Monnet</span><br/>
-                TSA 41114<br/>	<span itemprop="postalCode">86073</span> <span itemprop="addressLocality">POITIERS Cedex 9</span>, <span itemprop="addressCountry">France</span>	</p>
+                <span>avenue Jabran Khalil، El Jadida 24000</span><br/>
+
             <p>
-                <i aria-hidden="true" class="fas fa-phone"></i><span itemprop="telephone">(33) (0)5 49 45 34 00</span><br/>
-                <i aria-hidden="true" class="fas fa-fax"></i><span itemprop="fax">(33) (0)5 49 45 34 65</span>	</p>
-            <p><a href="mailto:iutp.score@univ-poitiers.fr" class="btn">Envoyer un mail</a></p>
+                <i aria-hidden="true" class="fas fa-phone"></i><span itemprop="telephone"> (+212) 05 23 34 44 48</span><br/>
+                <i aria-hidden="true" class="fas fa-fax"></i><span itemprop="fax">(+212) 05 23 34 44 49</span>	</p>
+            <p><a href="mailto:aelkhazenti@gmail.com" class="btn">Envoyer un mail</a></p>
         </div>
         <div class="footer-map">
             <div class="bloc bloc-osm" role="region" aria-labelledby="region-posts">
@@ -55,7 +54,7 @@
                 <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
                 <div class="map" id="footermap"></div>
             </div>
-            <script>var mymap=L.map('footermap').setView([46.5773,0.3742],15);L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',{maxZoom:18,attribution:'',id:'mapbox.streets',style:'https://openmaptiles.github.io/osm-bright-gl-style/style-cdn.json'}).addTo(mymap);var marker1=L.marker([46.5773,0.3742]).addTo(mymap).bindPopup('Poitiers Campus');var marker2=L.marker([46.8346,0.5348520000000008]).addTo(mymap).bindPopup('Châtellerault');var marker3=L.marker([46.583,0.3483529999999746]).addTo(mymap).bindPopup('GEA centre-ville');var marker4=L.marker([46.3284,-0.48994200000004184]).addTo(mymap).bindPopup('Niort');var group=new L.featureGroup([marker1,marker2,marker3,marker4]);mymap.fitBounds(group.getBounds());</script>
+            <script>var mymap=L.map('footermap').setView([33.227456,-8.489211],20);L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',{maxZoom:18,attribution:'',id:'mapbox.streets',style:'https://openmaptiles.github.io/osm-bright-gl-style/style-cdn.json'}).addTo(mymap);var marker1=L.marker([33.226882,-8.488155]).addTo(mymap).bindPopup('Faculté des Lettres et des Sciences Humaines');var marker2=L.marker([33.226036, -8.486921]).addTo(mymap).bindPopup('Faculté des Sciences');var marker3=L.marker([33.227456, -8.489211]).addTo(mymap).bindPopup('Ecole Supérieure de Technologi Sidi Bennour');var marker4=L.marker([33.228504, -8.488841]).addTo(mymap).bindPopup('رئاسة جامعة شعيب الدكالي Presidency of Shoaib Dokkali University\n');var group=new L.featureGroup([marker1,marker2,marker3,marker4]);mymap.fitBounds(group.getBounds());</script>
         </div>
     </div>
 </footer>
@@ -70,46 +69,33 @@
                     <nav class="menubox-nav" role="navigation">
                         <div class="menu-menu-principal-container">
                             <ul id="main-menu" class="menu">
-                                <li id="menu-ufr" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-ufr');" title="Voir les UFR">UFR : Unités de Formation et de Recherche</a>
+                                <li id="menu-ufr" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-ufr');" title="Voir les UFR">Ecoles Nationales des Sciences Appliquées</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a target="_blank" href="http://droit.univ-poitiers.fr/" title="Visitez le site web de Droit et sciences sociales">Droit et sciences sociales</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://sceco.univ-poitiers.fr/" title="Visitez le site web de Sciences &eacute;conomiques">Sciences &eacute;conomiques</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://ll.univ-poitiers.fr/" title="Visitez le site web de Lettres et langues">Lettres et langues</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://medphar.univ-poitiers.fr/" title="Visitez le site web de M&eacute;decine et pharmacie">M&eacute;decine et pharmacie</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://sfa.univ-poitiers.fr/" title="Visitez le site web de Sciences fondamentales et appliqu&eacute;es">Sciences fondamentales et appliqu&eacute;es</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://sha.univ-poitiers.fr/" title="Visitez le site web de Sciences humaines et arts">Sciences humaines et arts</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://scsport.univ-poitiers.fr/" title="Visitez le site web de Sciences du sport">Sciences du sport</a></li>
+                                        <li class="menu-item"><a target="_blank" href="http://www.ensaj.ucd.ac.ma/" title="Visitez le site web de ensa El jadida">Ecoles Nationales des Sciences Appliquées El jadida</a></li>
+
                                     </ul>
                                 </li>
-                                <li id="menu-ecoles" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-ecoles');" title="Voir les écoles">Écoles</a>
+                                <li id="menu-ecoles" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-ecoles');" title="Voir les écoles">Ecoles Nationales de Commerce et Gestion</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="http://ensip.univ-poitiers.fr/" title="ENSIP">ENSIP : Ecole Nationale Sup&eacute;rieure d'Ing&eacute;nieurs de Poitiers</a></li>
-                                        <li class="menu-item"><a href="http://espe.univ-poitiers.fr/" title="Visitez le site web de ESPE : Ecole sup&eacute;rieure du professorat et de l'&eacute;ducation">ESPE : Ecole sup&eacute;rieure du professorat et de l'&eacute;ducation</a></li>
+                                        <li class="menu-item"><a href="http://www.encgj.ucd.ac.ma/" title="Visitez le site web de ENCG El jadida">Ecoles Nationales de Commerce et Gestion El jadida</a></li>
+
                                     </ul>
                                 </li>
-                                <li id="menu-insituts" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-insituts');" title="Voir les instituts">Instituts</a>
+                                <li id="menu-insituts" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-insituts');" title="Voir FACULTÉ DES LETTRES ET DES SCIENCES HUMAINES.">Faculté des Lettres et des Sciences Humaines</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a target="_blank" href="http://iutp.univ-poitiers.fr/" title="Visitez le site web de Institut universitaire de technologie de Poitiers">Institut universitaire de technologie de Poitiers</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://iut-angouleme.univ-poitiers.fr/" title="Visitez le site web de Institut universitaire de technologie d'Angoul&ecirc;me">Institut universitaire de technologie d'Angoul&ecirc;me</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://iae.univ-poitiers.fr/" title="Visitez le site web de Institut d'administration des entreprises">Institut d'administration des entreprises</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://ipag.univ-poitiers.fr/" title="Visitez le site web de Institut de pr&eacute;paration &agrave; l'administration g&eacute;n&eacute;rale">Institut de pr&eacute;paration &agrave; l'administration g&eacute;n&eacute;rale</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://iriaf.univ-poitiers.fr" title="Visitez le site web de Institut des risques industriels assurantiels et financiers">Institut des risques industriels assurantiels et financiers</a></li>
+                                        <li class="menu-item"><a target="_blank" href="http://www.fsjesj.ucd.ac.ma/" title="Visitez le site web de Faculté des Lettres et des Sciences Humaines d'el jadida">Faculté des Lettres et des Sciences Humaines d'El-Jadida</a></li>
+
                                     </ul>
                                 </li>
-                                <li id="menu-services" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-services');" title="Voir les services communs">Services communs</a>
+
+                                <li id="menu-services" class="menu-item menu-item-has-children"><a href="javascript:opensubmenu('menu-services');" title="Voir les services communs">faculté des sciences</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a target="_blank" href="http://sdsd.univ-poitiers.fr/" title="Site du SDSD">Service du développement social et de la diversité (SDSD)</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://safire.univ-poitiers.fr/" title="Site du SAFIRE">Service d'accompagnement à la formation, l'insertion, la réussite et l'engagement (SAFIRE)</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://imedias.univ-poitiers.fr/" title="Site d'i-médias">Service commun informatique et multimédia (i-médias)</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://scd.univ-poitiers.fr/" title="Site du SCD">Service commun de documentation (SCD)</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://mdl.univ-poitiers.fr/" title="Site de la MDL">Maison des langues (MDL)</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://mde.univ-poitiers.fr/" title="Site de la MDE">Maison des étudiants (MDE)</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://ssu.univ-poitiers.fr/" title="Site du SSU">Service de santé universitaire</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://uppro.univ-poitiers.fr/" title="Site d'UP&Pro">UP&Pro</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://criip.univ-poitiers.fr/" title="Site du CRIIP">Centre de ressources d'ingénierie et d'initiatives pédagogiques (CRIIP)</a></li>
-                                        <li class="menu-item"><a target="_blank" href="http://mco.univ-poitiers.fr/" title="Site de MCO">Média Centre Ouest (MCO)</a></li>
+                                        <li class="menu-item"><a target="_blank" href="http://www.fs.ucd.ac.ma/" title="Site du faculté des sciences">faculté des sciences d'eljadida</a></li>
+
                                     </ul>
                                 </li>
+
+
                             </ul>
                         </div>
                     </nav>
