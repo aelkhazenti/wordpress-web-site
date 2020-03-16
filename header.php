@@ -115,7 +115,7 @@
 
                                     </ul>
                                 </li>
-                                <li id="menu-item-6448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6448"><a href="https://iutp.univ-poitiers.fr/scolarite/admission-au-dut/">Admission en DUT</a></li>
+                                <li id="menu-item-6448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6448"><a href="http://localhost:8888/wordpress/Admission_en_DUT.php">Admission en DUT</a></li>
                                 <li id="menu-item-6445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6445"><a href="https://iutp.univ-poitiers.fr/scolarite/admission-en-licence-professionnelle/">Admission en licence professionnelle</a></li>
 
                             </ul>
