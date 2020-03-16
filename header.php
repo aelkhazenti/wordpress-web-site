@@ -105,23 +105,6 @@
                 <h2>Menu principal</h2>
                 <nav class="menubox-nav" role="navigation">
                     <ul id="main-menu" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item menu-item-11"><a href="https://iutp.univ-poitiers.fr/" aria-current="page">Accueil</a></li>
-                        <li id="menu-item-4453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4453"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/">L’IUT Poitiers-Niort-Châtellerault</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-4490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4490"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/edito-du-directeur/">Structure – Organisation</a></li>
-                                <li id="menu-item-3113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3113"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/les-sites-de-formation/">Les sites de formation</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-3121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3121"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/les-sites-de-formation/poitiers-campus/">POITIERS CAMPUS</a></li>
-                                        <li id="menu-item-3155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3155"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/les-sites-de-formation/poitiers-centre-ville/">POITIERS CENTRE-VILLE</a></li>
-                                        <li id="menu-item-3152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3152"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/les-sites-de-formation/niort/">NIORT</a></li>
-                                        <li id="menu-item-3149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3149"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/les-sites-de-formation/chatellerault/">CHÂTELLERAULT</a></li>
-
-
-                                    </ul>
-                                </li>
-                                <li id="menu-item-1710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1710"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/le-reseau-des-iut/">Le réseau des IUT</a></li>
-                                <li id="menu-item-7374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7374"><a href="https://iutp.univ-poitiers.fr/liut-poitiers-niort-chatellerault/nos-publications/">Nos publications</a></li>
-                            </ul>
-                        </li>
                         <li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1620"><a href="https://iutp.univ-poitiers.fr/se-former/">Se former</a>
                             <ul class="sub-menu">
                                 <li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://iutp.univ-poitiers.fr/se-former/scolarite/">Scolarité</a></li>
@@ -129,21 +112,20 @@
                                     <ul class="sub-menu">
                                         <li id="menu-item-3213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3213"><a href="https://iutp.univ-poitiers.fr/se-former/dut/">Les DUT</a></li>
                                         <li id="menu-item-3216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3216"><a href="https://iutp.univ-poitiers.fr/se-former/licences-professionnelles-proposees-a-liut-de-poitiers-niort-chatellerault/">Les licences professionnelles</a></li>
-                                        <li id="menu-item-7180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7180"><a href="https://iutp.univ-poitiers.fr/se-former/dueti-diplome-universitaires-detudes-technologiques-internationales/">DUETI (Diplôme Universitaires d&rsquo;Etudes Technologiques Internationales)</a></li>
+
                                     </ul>
                                 </li>
                                 <li id="menu-item-6448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6448"><a href="https://iutp.univ-poitiers.fr/scolarite/admission-au-dut/">Admission en DUT</a></li>
                                 <li id="menu-item-6445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6445"><a href="https://iutp.univ-poitiers.fr/scolarite/admission-en-licence-professionnelle/">Admission en licence professionnelle</a></li>
-                                <li id="menu-item-1772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1772"><a href="https://iutp.univ-poitiers.fr/se-former/alternance/">Formation Continue et Alternance</a></li>
-                                <li id="menu-item-1760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1760"><a href="https://iutp.univ-poitiers.fr/se-former/insertion-professionnelle/">Le devenir de nos diplômé.e.s</a></li>
+
                             </ul>
                         </li>
                         <li id="menu-item-1629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1629"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/">Espace entreprises</a>
                             <ul class="sub-menu">
                                 <li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1841"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/accueillir-des-stagiaires/">Accueillir un stagiaire</a></li>
-                                <li id="menu-item-1835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/recruter-un-alternant/">Recruter un alternant</a></li>
+
                                 <li id="menu-item-1829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1829"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/recruter-nos-diplomes/">Recruter un diplômé</a></li>
-                                <li id="menu-item-3634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3634"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/taxe-dapprentissage/">Verser votre taxe d&rsquo;apprentissage à l&rsquo;IUT</a></li>
+
                             </ul>
                         </li>
                     </ul>
