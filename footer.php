@@ -106,17 +106,8 @@
     </div>
 </footer>
 <footer id="legal-footer" class="site-legal-footer" role="contentinfo">
-    <p>Université de Poitiers - 15, rue de l'Hôtel Dieu - TSA 71117 - 86073 POITIERS Cedex 9 - France - Tél : (33) (0)5 49 45 30 00 - Fax : (33) (0)5 49 45 30 50</p>
-    <nav role="navigation">
-        <ul>
-            <li><a target="_blank" href="http://intranet.univ-poitiers.fr">Intranet de l'université de Poitiers</a></li>
-            <li><a href="https://iutp.univ-poitiers.fr/mentions-legales/">Crédits et mentions légales</a></li>
-            <li><a href="https://iutp.univ-poitiers.fr/donnees-personnelles/">Données personnelles</a></li>
-            <li><a href="https://iutp.univ-poitiers.fr/accessibilite/">Accessibilité</a></li>
-            <li><a href="https://iutp.univ-poitiers.fr/plan-du-site/">Plan du site</a></li>
-            <li><a href="https://iutp.univ-poitiers.fr/flux-rss/">Flux RSS</a></li>
-        </ul>
-    </nav>
+    <p>created by  <a href=""> aym</a></p>
+
 </footer>
 </div>
 </main>
