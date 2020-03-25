@@ -2,17 +2,76 @@
 <div id="main-content" class="site-content">
     <div class="page-wrapper no-sidebar">
         <div id="sections" class="page-sections">
+            <section id="FvSr41KhbtrdsIGxN83j" class="margin-top-min no-margin-bottom no-padding-top no-padding-bottom border-top-no border-bottom-no bg-white txt-default no-bg-image " style="">
+                <header class="section-header title-dashed title-black title-center">
+                    <h2 id="region-FvSr41KhbtrdsIGxN83j">A la une</h2>
+                </header>
+                <div id="row-r8dHfbpdB99JwHiNEFAr" class="row row1col row-100 rowclassic no-margin-top no-margin-bottom no-padding-top no-padding-bottom next-to-sidebar ">
+                    <div class="col">
+                        ﻿
+                        <div id="actualites-2904" class="bloc bloc-posts " role="region" data-page="1" data-pagi="1" data-nb="" data-categories="">
+                            <div class="hashtags-social-wrapper">
+                                <div class="hashtags">
+                                    <ul>
+                                    </ul>
+                                </div>
+                         
+                            </div>
+                            <div class="posts-wrapper">
+                                <ul class="posts-list">
+                                    <li class="post">
+                                        <a href="">
+                                            <div class="thumb-date-wrapper">
+                                                <div class="thumb" style="background-image:url(https://firebasestorage.googleapis.com/v0/b/site-d-inscription.appspot.com/o/Screenshot%202020-03-23%20at%2015.48.21.png?alt=media&token=29214edf-2c19-4109-994f-375d919083e6);background-size:cover"><div><div class="border-box">Lire l'actu</div></div></div>
+                                            </div>
+                                            <p class="post-category">Emplois du temps</p>
+                                            <h3 class="post-title">emploi du temps GI S4</h3>
+                                        </a>
+                                    </li>
+
+                                    <li class="post">
+                                        <a href="">
+                                            <div class="thumb-date-wrapper">
+                                                <div class="thumb" style="background-image:url(https://firebasestorage.googleapis.com/v0/b/site-d-inscription.appspot.com/o/Screenshot%202020-03-23%20at%2015.48.38.png?alt=media&token=5e2136b7-f4aa-43b5-ba64-47f15fc3e365);background-size:cover"><div><div class="border-box">Lire l'actu</div></div></div>
+                                            </div>
+                                            <p class="post-category">Emplois du temps</p>
+                                            <h3 class="post-title">emploi du temps GI S2</h3>
+                                        </a>
+                                    </li>
+                                    <li class="post">
+                                        <a href="">
+                                            <div class="thumb-date-wrapper">
+                                                <div class="thumb" style="background-image:url(https://firebasestorage.googleapis.com/v0/b/site-d-inscription.appspot.com/o/Screenshot%202020-03-23%20at%2015.52.21.png?alt=media&token=55506afd-7b18-4882-b9d4-62d7354d3e9c);background-size:cover"><div><div class="border-box">Lire l'actu</div></div></div>
+                                            </div>
+                                            <p class="post-category">Emplois du temps</p>
+                                            <h3 class="post-title">emploi du temps TM S4</h3>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="row-3ruUGWd9kFwjGLM6MdKV" class="row row1col row-100 rowclassic no-margin-top no-margin-bottom no-padding-top no-padding-bottom next-to-sidebar ">
+                    <div class="col">
+
+                    </div>
+                </div>
+            </section>
+
+
 
             <section id="UHERIoJ9Gts4mkoxflcg" class="margin-top-mid no-margin-bottom no-padding-top no-padding-bottom border-top-no border-bottom-no bg-white txt-default no-bg-image " style="">
                 <header class="section-header title-dashed title-black title-center">
-                    <h2 id="region-UHERIoJ9Gts4mkoxflcg">Trouver ma formationnnnnn</h2>
+                    <h2 id="region-UHERIoJ9Gts4mkoxflcg">Trouver ma formation</h2>
                 </header>
                 <div id="row-Y3jFEblUHgYhjgn138ZP" class="row row1col row-100 rowclassic no-margin-top no-margin-bottom no-padding-top no-padding-bottom next-to-sidebar ">
                     <div class="col">
                         <div id="entrees-icones-7070" class="bloc bloc-icones bloc-4-icones-par-ligne no-border">
                             <ul class="entrees icon-color-black icon-align-center">
-                                <li><a href="https://iutp.univ-poitiers.fr/se-former/dut/"><i class="fa fa-user-graduate"></i>Diplômes Universitaires de Technologie<i aria-hidden="true" class="fas fa-chevron-right"></i></a></li>
-                                <li><a href="https://iutp.univ-poitiers.fr/se-former/licences-professionnelles-proposees-a-liut-de-poitiers-niort-chatellerault/"><i class="fa fa-graduation-cap"></i>LICENCES PROFESSIONNELLES<i aria-hidden="true" class="fas fa-chevron-right"></i></a></li>
+                                <li><a href="http://localhost:8888/wordpress/about/"><i class="fa fa-user-graduate"></i>Diplômes Universitaires de Technologie<i aria-hidden="true" class="fas fa-chevron-right"></i></a></li>
+                                <li><a href=""><i class="fa fa-graduation-cap"></i>LICENCES PROFESSIONNELLES<i aria-hidden="true" class="fas fa-chevron-right"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -78,13 +137,13 @@
                         <div id="entrees-images-7391" class="bloc bloc-images bloc-2-images bloc-4-images-par-ligne">
                             <ul class="entrees horizontal-align-center vertical-align-bottom">
                                 <li style="background-image:url(https://iutp.univ-poitiers.fr/wp-content/uploads/sites/100/2019/06/xIMG_2047-1-1024x683.jpg.pagespeed.ic._4KPBixbu0.webp)">
-                                    <a href="https://iutp.univ-poitiers.fr/se-former/">
+                                    <a href="">
                                         <i class="fa fa-angle-double-right"></i>
                                         <p class="titre">Lycéen.e.s - Etudiant.e.s</p>
                                     </a>
                                 </li>
                                 <li style="background-image:url(https://iutp.univ-poitiers.fr/wp-content/uploads/sites/100/2019/07/xgears-1359436_960_720.png.pagespeed.ic.Ds0kMtDFz2.webp)">
-                                    <a href="https://iutp.univ-poitiers.fr/espace-entreprises/">
+                                    <a href="">
                                         <i class="fa fa-angle-double-right"></i>
                                         <p class="titre">Entreprises</p>
                                     </a>

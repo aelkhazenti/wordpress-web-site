@@ -105,26 +105,26 @@
                 <h2>Menu principal</h2>
                 <nav class="menubox-nav" role="navigation">
                     <ul id="main-menu" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item menu-item-11"><a href="https://iutp.univ-poitiers.fr/" aria-current="page">Accueil</a></li>
-                        <li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1620"><a href="https://iutp.univ-poitiers.fr/se-former/">Se former</a>
+                        <li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1620"><a href="">Se former</a>
                             <ul class="sub-menu">
-                                <li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://iutp.univ-poitiers.fr/se-former/scolarite/">Scolarité</a></li>
-                                <li id="menu-item-5682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5682"><a href="https://iutp.univ-poitiers.fr/se-former/nos-formations-2/">Nos formations</a>
+                                <li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="">Scolarité</a></li>
+                                <li id="menu-item-5682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5682"><a href="/">Nos formations</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-3213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3213"><a href="https://iutp.univ-poitiers.fr/se-former/dut/">Les DUT</a></li>
-                                        <li id="menu-item-3216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3216"><a href="https://iutp.univ-poitiers.fr/se-former/licences-professionnelles-proposees-a-liut-de-poitiers-niort-chatellerault/">Les licences professionnelles</a></li>
+                                        <li id="menu-item-3213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3213"><a href="">Les DUT</a></li>
+                                        <li id="menu-item-3216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3216"><a href="">Les licences professionnelles</a></li>
 
                                     </ul>
                                 </li>
-                                <li id="menu-item-6448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6448"><a href="http://localhost:8888/wordpress/Admission_en_DUT.php">Admission en DUT</a></li>
-                                <li id="menu-item-6445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6445"><a href="https://iutp.univ-poitiers.fr/scolarite/admission-en-licence-professionnelle/">Admission en licence professionnelle</a></li>
+                                <li id="menu-item-6448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6448"><a href="Admission_en_DUT.php">Admission en DUT</a></li>
+                                <li id="menu-item-6445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6445"><a href="">Admission en licence professionnelle</a></li>
 
                             </ul>
                         </li>
-                        <li id="menu-item-1629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1629"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/">Espace entreprises</a>
+                        <li id="menu-item-1629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1629"><a href="">Espace entreprises</a>
                             <ul class="sub-menu">
-                                <li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1841"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/accueillir-des-stagiaires/">Accueillir un stagiaire</a></li>
+                                <li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1841"><a href="">Accueillir un stagiaire</a></li>
 
-                                <li id="menu-item-1829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1829"><a href="https://iutp.univ-poitiers.fr/espace-entreprises/recruter-nos-diplomes/">Recruter un diplômé</a></li>
+                                <li id="menu-item-1829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1829"><a href="">Recruter un diplômé</a></li>
 
                             </ul>
                         </li>

@@ -106,7 +106,7 @@
     </div>
 </footer>
 <footer id="legal-footer" class="site-legal-footer" role="contentinfo">
-    <p>created by  <a href=""> aym</a></p>
+    <p>created by  <a href=""> aymane elkhazenti</a></p>
 
 </footer>
 </div>
