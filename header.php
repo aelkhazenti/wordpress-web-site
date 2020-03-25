@@ -77,12 +77,12 @@
         <div class="site-main-banner-content">
             <div class="logos-wrapper">
                 <div class="logo-up">
-                    <a rel="home" title="Vers la page d'accueil"><img src="https://cdn-06.9rayti.com/rsrc/cache/widen_292/uploads/2012/06/logo-universite-chouaib-doukkali-eljadida-ucd.png" height="70" alt="Logo Université de Poitiers" class="grayscale"/></a>
+                    <a rel="home" title="Vers la page d'accueil"><img src="https://cdn-06.9rayti.com/rsrc/cache/widen_292/uploads/2012/06/logo-universite-chouaib-doukkali-eljadida-ucd.png" height="70" alt="" class="grayscale"/></a>
                 </div>
                 <div class="logos-site">
                     <ul>
                         <li class="sitename">
-                            <a href="https://iutp.univ-poitiers.fr" title="Vers la page d'accueil">
+                            <a href="" title="Vers la page d'accueil">
                                 <span class="ligne1">Ecole Supérieure de Technologie</span>
                                 <span class="ligne2">Sidi Bennour </span>
                             </a>
