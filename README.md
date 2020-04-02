@@ -92,7 +92,13 @@ ReactJS is an open-source JavaScript library which is used for building user int
 -
 ![](https://i.imgur.com/cKW1NyS.png)
 
+- home page
+- ![](https://i.imgur.com/caWdl1Q.jpg)
 
+
+- our diplomes full page 
+- ![](https://i.imgur.com/1Kux03B.jpg)
+- ![](https://i.imgur.com/Al2yGdy.jpg)
 
 
 
