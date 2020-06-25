@@ -4,7 +4,8 @@
         <div class="footer-contact" itemscope itemtype="http://schema.org/Organization">
 
             <div class="logo-structure">
-                <img itemprop="logo" src="https://firebasestorage.googleapis.com/v0/b/ecomm-projet.appspot.com/o/Logo-EST-Sidi-Bennour.jpg?alt=media&token=69abe000-c9bc-46d3-a5b4-f816038be86c"/></div>	
+                <img itemprop="logo" src="https://firebasestorage.googleapis.com/v0/b/ecomm-projet.appspot.com/o/Logo-EST-Sidi-Bennour.jpg?alt=media&token=69abe000-c9bc-46d3-a5b4-f816038be86c"/>
+            </div>
                 
                 <h3 itemprop="legalName">Services administratifs</h3>	<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
                     
@@ -12,9 +13,12 @@
 
             <p>
                 <i aria-hidden="true" class="fas fa-phone"></i><span itemprop="telephone"> (+212) 05 23 34 44 48</span><br/>
-                <i aria-hidden="true" class="fas fa-fax"></i><span itemprop="fax">(+212) 05 23 34 44 49</span>	</p>
+                <i aria-hidden="true" class="fas fa-fax"></i><span itemprop="fax">(+212) 05 23 34 44 49</span>
+            </p>
             <p><a href="mailto:aelkhazenti@gmail.com" class="btn">Envoyer un mail</a></p>
+
         </div>
+
         <div class="footer-map">
 
             <script>
@@ -34,7 +38,11 @@
             </script>
         </div>
     </div>
+
+    </div>
 </footer>
+
+
 <footer id="bottom-footer" class="site-bottom-footer">
     <div class="content">
         <div class="footer-websites">

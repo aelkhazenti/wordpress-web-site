@@ -1,14 +1,3 @@
-
-<!doctype html>
-<html lang="fr-FR" dir="ltr">
-<head>
-    <meta charset="UTF-8">
-    <link rel="manifest" id="website-manifest">
-    <link rel='dns-prefetch' href='//fonts.googleapis.com'/>
-
-</head>
-
-<body class="home page-template-default page page-id-9" data-title="Page d&rsquo;accueil">
 <div id="page" class="site site-page-header-normal site-page-header-image site-type-generic">
     <header id="top-header" class="site-topbar">
         <div class="content">
@@ -89,5 +78,4 @@
         </div>
     </div>
 </div>
-</body>
-</html>
+
