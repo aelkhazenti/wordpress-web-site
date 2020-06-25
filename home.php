@@ -1,15 +1,15 @@
 <?php get_header(); ?>
 <div id="main-content" class="site-content">
-    <div class="page-wrapper no-sidebar">
+    <div class="page-wrapper ">
         <div id="sections" class="page-sections">
-            <section id="FvSr41KhbtrdsIGxN83j" class="margin-top-min no-margin-bottom no-padding-top no-padding-bottom border-top-no border-bottom-no bg-white txt-default no-bg-image " style="">
-                <header class="section-header title-dashed title-black title-center">
-                    <h2 id="region-FvSr41KhbtrdsIGxN83j">A la une</h2>
+            <section  >
+                <header >
+                    <h2 >A la une</h2>
                 </header>
-                <div id="row-r8dHfbpdB99JwHiNEFAr" class="row row1col row-100 rowclassic no-margin-top no-margin-bottom no-padding-top no-padding-bottom next-to-sidebar ">
+                <div  >
                     <div class="col">
-                        ﻿
-                        <div id="actualites-2904" class="bloc bloc-posts " role="region" data-page="1" data-pagi="1" data-nb="" data-categories="">
+                        
+                        <div  >
                             <div class="hashtags-social-wrapper">
                                 <div class="hashtags">
                                     <ul>
@@ -62,14 +62,14 @@
 
 
 
-            <section id="UHERIoJ9Gts4mkoxflcg" class="margin-top-mid no-margin-bottom no-padding-top no-padding-bottom border-top-no border-bottom-no bg-white txt-default no-bg-image " style="">
+            <section >
                 <header class="section-header title-dashed title-black title-center">
-                    <h2 id="region-UHERIoJ9Gts4mkoxflcg">Trouver ma formation</h2>
+                    <h2 >Trouver ma formation</h2>
                 </header>
-                <div id="row-Y3jFEblUHgYhjgn138ZP" class="row row1col row-100 rowclassic no-margin-top no-margin-bottom no-padding-top no-padding-bottom next-to-sidebar ">
+                <div >
                     <div class="col">
-                        <div id="entrees-icones-7070" class="bloc bloc-icones bloc-4-icones-par-ligne no-border">
-                            <ul class="entrees icon-color-black icon-align-center">
+                        <div >
+                            <ul >
                                 <li><a href="http://localhost:8888/wordpress/about/"><i class="fa fa-user-graduate"></i>Diplômes Universitaires de Technologie<i aria-hidden="true" class="fas fa-chevron-right"></i></a></li>
                                 <li><a href=""><i class="fa fa-graduation-cap"></i>LICENCES PROFESSIONNELLES<i aria-hidden="true" class="fas fa-chevron-right"></i></a></li>
                             </ul>
@@ -77,14 +77,14 @@
                     </div>
                 </div>
             </section>
-            <section id="KR91QU9TdiY9ZW4r6Kzh" class="margin-top-mid margin-bottom-min no-padding-top no-padding-bottom border-top-no border-bottom-no bg-white txt-default no-bg-image " style="">
-                <header class="section-header title-dashed title-black title-center">
-                    <h2 id="region-KR91QU9TdiY9ZW4r6Kzh">Les sites </h2>
+            <section >
+                <header >
+                    <h2 >Les sites </h2>
                 </header>
-                <div id="row-EhEevoFRr1ZL9fKniXIq" class="row row1col row-100 rowfullwidth no-margin-top no-margin-bottom no-padding-top no-padding-bottom next-to-sidebar ">
+                <div >
                     <div class="col">
-                        <div id="diaporama-3236" class="bloc bloc-diaporama carousel Array fade text-align-x-center text-align-y-center" data-delay="5000" data-page="1">
-                            <div class="slider-wrapper" style="width:100%; flex:0 1 100%; height:400px">
+                        <div >
+                            <div >
                                 <div class="images">
                                     <ul class="slides">
                                         <li style="flex:1 0 400px;">
@@ -98,7 +98,7 @@
                                         <li style="flex:1 0 400px;">
                                             <a href="http://www.fsjesj.ucd.ac.ma/">	<div class="slide-content">
                                                     <div class="content">
-                                                        <p class="titre">Faculté des Lettres et des Sciences Humaines d'El-Jadida</p>	</div>
+                                                        <p class="titre">Faculté des Lettres et des Sciences Humaines dEl-Jadida</p>	</div>
                                                 </div>
                                             </a>
                                             <div class="slide-image" style="background-image:url(http://www.fsjesj.ucd.ac.ma/images/logo_fsjesj_02.png);filter:brightness(50%) grayscale(100%)"></div>
@@ -121,28 +121,28 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="slider-arrow slider-arrow-left"><a class="slide slide-prev" href="javascript:void(0)" data-slider="diaporama-3236" title="Défiler vers l'arrière"><i aria-hidden="true" class="fa fa-chevron-left"></i></a></div>
-                                <div class="slider-arrow slider-arrow-right"><a class="slide slide-next" href="javascript:void(0)" data-slider="diaporama-3236" title="Défiler vers l'avant"><i aria-hidden="true" class="fa fa-chevron-right"></i></a></div>
+                                <div ><a class="slide slide-prev"  data-slider="diaporama-3236" title="Défiler vers l'arrière"><i aria-hidden="true" class="fa fa-chevron-left"></i></a></div>
+                                <div ><a class="slide slide-next"  data-slider="diaporama-3236" title="Défiler vers l'avant"><i aria-hidden="true" class="fa fa-chevron-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section id="0vaYQQLdVx1bQC9jpbvb" class="margin-top-mid no-margin-bottom no-padding-top no-padding-bottom border-top-no border-bottom-no bg-white txt-default no-bg-image " style="">
+            <section >
                 <header class="section-header title-dashed title-black title-center">
-                    <h2 id="region-0vaYQQLdVx1bQC9jpbvb">Votre espace</h2>
+                    <h2>Votre espace</h2>
                 </header>
-                <div id="row-7vpTC5fdz2XqFsIc0MQQ" class="row row1col row-100 rowclassic no-margin-top no-margin-bottom no-padding-top no-padding-bottom next-to-sidebar ">
+                <div >
                     <div class="col">
-                        <div id="entrees-images-7391" class="bloc bloc-images bloc-2-images bloc-4-images-par-ligne">
-                            <ul class="entrees horizontal-align-center vertical-align-bottom">
-                                <li style="background-image:url(https://iutp.univ-poitiers.fr/wp-content/uploads/sites/100/2019/06/xIMG_2047-1-1024x683.jpg.pagespeed.ic._4KPBixbu0.webp)">
+                        <div  >
+                            <ul >
+                                <li >
                                     <a href="">
                                         <i class="fa fa-angle-double-right"></i>
                                         <p class="titre">Lycéen.e.s - Etudiant.e.s</p>
                                     </a>
                                 </li>
-                                <li style="background-image:url(https://iutp.univ-poitiers.fr/wp-content/uploads/sites/100/2019/07/xgears-1359436_960_720.png.pagespeed.ic.Ds0kMtDFz2.webp)">
+                                <li >
                                     <a href="">
                                         <i class="fa fa-angle-double-right"></i>
                                         <p class="titre">Entreprises</p>
@@ -173,7 +173,10 @@
             </section>
             <hr class="separator"/>
         </div>
+        
     </div>
+</div>
+
 
 <?php get_footer(); ?>
 
